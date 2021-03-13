@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SE2</string>
+    <string name="start">Bitte die Matrikelnummer eingeben:</string>
+    <string name="send">Senden</string>
+    <string name="hint_number">01370456</string>
+    <string name="server_answer"></string>
 </resources>
